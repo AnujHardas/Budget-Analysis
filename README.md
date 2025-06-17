@@ -1,4 +1,4 @@
-# 🧾 Department Budget Analysis – Power BI Project
+![image](https://github.com/user-attachments/assets/917cdcec-8287-4425-8a61-4cb7054eceb3)# 🧾 Department Budget Analysis – Power BI Project
 
 This project visualizes and analyzes departmental budget performance using Power BI. It compares **budgeted** vs **actual spending**, identifies **overspending or underspending**, and highlights key trends using interactive visuals.
 
